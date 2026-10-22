@@ -1,0 +1,9 @@
+pydantic-ai-slim[openai]==2.56.0
+openai==3.29.0
+python-dotenv==1.2.4
+beautifulsoup4==4.15.0
+pypdf==6.21.2
+tiktoken==0.14.0
+# code defense: PDF rendering (this cryptography version has a prebuilt wheel for this Mac)
+pdfplumber==0.11.10
+cryptography==48.0.1
